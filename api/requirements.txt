@@ -1,0 +1,5 @@
+charset-normalizer==2.0.12
+colorama==0.4.4
+idna==3.3
+MarkupSafe==2.0.1
+urllib3==1.26.8
